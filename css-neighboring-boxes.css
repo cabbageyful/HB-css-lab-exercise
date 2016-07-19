@@ -1,0 +1,18 @@
+div {
+
+    height: 100px;
+    width: 100px; 
+    margin: 25px;
+    display: inline-block;
+}
+
+#left-square {
+
+    background-color: black;
+
+}
+
+#right-square {
+
+    background-color: black;
+}

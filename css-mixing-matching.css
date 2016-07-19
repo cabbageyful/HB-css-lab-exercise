@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+
+.rect {
+    
+    margin: 0;
+    height: 200px;
+    width: 350px;
+
+}
+
+#top-red {
+
+    background-color:red;
+    
+}
+
+#bot-blue {
+
+    background-color: blue;
+    
+}
+
+.square {
+
+    /*position: relative;*/
+    background-color: black;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
